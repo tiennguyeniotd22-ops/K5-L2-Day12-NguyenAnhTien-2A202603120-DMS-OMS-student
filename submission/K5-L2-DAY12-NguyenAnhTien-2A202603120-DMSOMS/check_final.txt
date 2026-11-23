@@ -1,0 +1,10 @@
+File: C:\AI_Thực_Chiến\Day12\K5-L2-NguyenAnhTien-Day12-2A202603120-DMS-OMS-student\submission\K5-L2-DAY12-NguyenAnhTien-2A202603120-DMSOMS\export_final.zip
+Ảnh: 22 · đã có frame_meta: 22 · số đối tượng: child_seat=8, face=12, face13=4, hand=11, infant_seat=12, object=4, person=10, phone=1
+  [WARN] S03_ir.png: infant_seat: seat=driver trên ảnh SVIRO (camera chỉ nhìn hàng ghế sau)
+  [WARN] S03_rgb.png: infant_seat: seat=driver trên ảnh SVIRO (camera chỉ nhìn hàng ghế sau)
+  [WARN] S08_rgb.png: infant_seat: seat=driver trên ảnh SVIRO (camera chỉ nhìn hàng ghế sau)
+Kết quả: 0 lỗi, 3 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
+
+Giải thích [WARN] S03_ir.png: box infant_seat có hình giống em bé đã bỏ trong v2 theo quy tắc SVIRO; không đổi thành person.
+Giải thích [WARN] S03_rgb.png: box infant_seat có hình giống em bé đã bỏ trong v2 theo quy tắc SVIRO; không đổi thành person.
+Giải thích [WARN] S08_rgb.png: thuộc tính infant_seat.seat đã sửa từ driver thành rear_left trong v2 theo vị trí ghế trên xe.

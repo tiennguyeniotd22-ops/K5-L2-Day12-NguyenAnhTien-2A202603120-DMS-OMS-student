@@ -1,0 +1,5 @@
+﻿frame_id,source,phenomenon,affected_field,effect_on_label
+S01_ir,IR_sim,Vùng lòng child_seat trong ảnh RGB cùng cảnh rất tối; mức nhìn thấy chi tiết khác giữa hai modality.,child_seat.occupied,Gán unknown trên ảnh RGB khi lòng ghế không rõ; không sao chép occupied=no chỉ từ ảnh IR.
+S02_ir,IR_sim,Ảnh đơn sắc làm mất cue màu; loại ghế cần nhận ra theo khung/quai và hình dáng.,"class, seat, facing",Phân biệt infant_seat với child_seat theo hình dạng; trái ảnh là rear_right theo chiều xe.
+S05_ir,IR_sim,Cốc ở ghế phải là vật nhỏ/tối; màu không đáng tin trong ảnh IR-sim.,object.type,Dùng outline/vị trí để chọn cup; nếu không đủ rõ thì không đoán loại vật.
+D02,real_IR,"Theo ghi chú review, sau chỉnh brightness/contrast trên viewer, mí hai mắt quan sát được là khép.","eye_left, eye_right","Chọn closed nếu mí khép nhìn thấy; chỉnh viewer chỉ hỗ trợ quan sát, không sửa ảnh gốc."

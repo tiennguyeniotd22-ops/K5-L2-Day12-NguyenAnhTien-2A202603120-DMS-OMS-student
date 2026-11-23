@@ -1,0 +1,5 @@
+File: C:\AI_Thực_Chiến\Day12\K5-L2-NguyenAnhTien-Day12-2A202603120-DMS-OMS-student\submission\K5-L2-DAY12-NguyenAnhTien-2A202603120-DMSOMS\export_final_v2.zip · chỉ kiểm ảnh: D01, D02
+Ảnh: 2 · đã có frame_meta: 2 · số đối tượng: face=2, face13=1, hand=4, person=2
+Kết quả: 0 lỗi, 0 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
+
+Ghi chú provenance: chạy hồi cứu trên export_final_v2.zip để kiểm lại D01-D02. Đây không phải ảnh chụp/log lịch sử tại Checkpoint B; log gốc người học không còn lưu.
