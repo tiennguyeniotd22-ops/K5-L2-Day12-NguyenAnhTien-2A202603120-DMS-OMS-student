@@ -2,8 +2,8 @@
   "images": 22,
   "with_frame_meta": 22,
   "counts": {
-    "hand": 11,
     "person": 10,
+    "hand": 11,
     "face": 10,
     "face13": 4,
     "phone": 1,
